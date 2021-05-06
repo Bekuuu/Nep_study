@@ -73,7 +73,7 @@ stack:
 
 测试：
 
-![image-20210506162359760](C:\Users\12283\AppData\Roaming\Typora\typora-user-images\image-20210506162359760.png)
+![image-20210506162359760](image-20210506162359760.png)
 
 
 
@@ -122,7 +122,7 @@ stack:
 
 测试：
 
-![image-20210506171215428](C:\Users\12283\AppData\Roaming\Typora\typora-user-images\image-20210506171215428.png)
+![image-20210506171215428](image-20210506171215428.png)
 
 #### copy.ys
 
@@ -176,7 +176,7 @@ stack:
 
 测试：
 
-![image-20210506203157891](C:\Users\12283\AppData\Roaming\Typora\typora-user-images\image-20210506203157891.png)
+![image-20210506203157891](image-20210506203157891.png)
 
 
 
